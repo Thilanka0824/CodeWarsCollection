@@ -295,7 +295,7 @@ function countAB(str){
 
     for(let i = 0; i < str.length; i++){
         if(str[i] === 'a' || str[i] === 'A'){
-            ctrA++ //adds to the counter everytime
+            ctrA++ //adds to the counter every time
             console.log(ctrA)
         }
         
