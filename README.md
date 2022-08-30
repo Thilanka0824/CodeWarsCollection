@@ -1,2 +1,2 @@
 # CodeWarsCollection
--A collection of CodeWars questions I've completed
+  - A collection of CodeWars questions I've completed
