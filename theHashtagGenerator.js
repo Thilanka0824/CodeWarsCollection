@@ -68,7 +68,7 @@ function generateHashtag(str) {
 
 
 
-generateHashtag("Do We have A Hashtag");
+console.log(generateHashtag("Do We have A Hashtag"));
 
 
 /*
